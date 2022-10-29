@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/rodolfo/Desktop/9semestre/WEB/Practica5_a180149/Ejemplo1.xsl"?>
+<peliculas>
+  <pelicula>
+    <nombre>Aquaman</nombre>
+    <director>James Wan</director>
+    <pais>Estados unidos</pais>
+    <genero>Ciencia ficcion</genero>
+    <año>2018</año>
+  </pelicula>
+   <pelicula>
+    <nombre>Spiderman: No way home</nombre>
+    <director>Jon Vatios</director>
+    <pais>Estados unidos</pais>
+    <genero>Ciencia ficcion</genero>
+    <año>2021</año>
+  </pelicula>
+   <pelicula>
+    <nombre>Sonic</nombre>
+    <director>Jeff Fowler</director>
+    <pais>Estados unidos</pais>
+    <genero>Ciencia ficcion</genero>
+    <año>2020</año>
+  </pelicula>
+</peliculas>
